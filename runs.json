@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-24 16:32",
+  "updated": "2026-11-24 16:59",
   "runs": [
+    {
+      "date": "2026-11-24",
+      "found": 10,
+      "new": 5,
+      "closed": 0,
+      "note": "Navegador: Claude in Chrome (Browser 1, elegido sin indicador inUse, ambos sin isLocal). Re-verificadas 5 de 5 vigentes en Workana (abren, siguen abiertas). Workana FUNCIONÓ con ?language=es&query=<consulta> (community manager, meta ads, relaciones publicas, redes sociales, branding); las fichas se leen con fetch desde la pestaña o get_page_text; el presupuesto no se ve sin sesión. Fichas abiertas: 12 (5 incluidas). Descartes: freelancer chilena CM (publicada en noviembre de 2025); media buyer Meta Ads para institución en España (300 EUR mensuales, exige CAPI y píxeles, fecha no verificada); GetOnBoard CM MATCH (cerrada, 2024); Computrabajo CM freelance Providencia (redirige al listado, caduca); Chiletrabajos creador de contenido part-time de moda (11 oct, más de 21 días); contenido viral con edición de video, plataforma adulta, compra de cuentas, suplantación, logotipos, diseño gráfico y agente de IA (fuera de perfil). LinkedIn FALLÓ otra vez: la ubicación queda en 'Provincia de Colchagua' y devuelve 0 resultados, además el lector bloquea URL con parámetros. Nube: 6 consultas WebSearch; devolvieron Workana, Chiletrabajos, Computrabajo y Jooble sin fecha o de jornada completa; Indeed solo páginas de listado genéricas, sin fichas verificables. Laborum, Freelancer, Upwork y Malt no se alcanzaron por tiempo."
+    },
     {
       "date": "2026-11-24",
       "found": 5,
