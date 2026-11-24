@@ -1,4 +1,12 @@
 {
-  "updated": null,
-  "runs": []
+  "updated": "2026-11-24 16:32",
+  "runs": [
+    {
+      "date": "2026-11-24",
+      "found": 5,
+      "new": 5,
+      "closed": 0,
+      "note": "Navegador: Claude in Chrome (Browser 1, elegido sin indicador inUse). Primera ejecución, tablero vacío, sin re-verificaciones. Workana FUNCIONÓ: listados con ?language=es&query=<consulta> (community manager, branding, relaciones publicas), leídos con .project-item y fichas con fetch desde la pestaña; el presupuesto no se muestra sin sesión y las consultas por fetch devuelven vacío (el listado se renderiza en el navegador). Fichas abiertas: 8 (5 incluidas). Descartes: contenido viral con 3 Reels diarios y edición de video copiando estilo; estrategia para plataforma adulta; PR de evento en restaurante sin ubicación verificable; compra de cuentas; reporte de suplantación; diseño de logotipo y anuncios gráficos (diseño avanzado); especialista de marketing con 74 propuestas. LinkedIn FALLÓ: tras las redirecciones conserva la ubicación 'Provincia de Colchagua' y devuelve 0 resultados con las URL indicadas. Nube: WebSearch (3 consultas) solo devolvió fichas de Workana ya vistas, Chiletrabajos y Computrabajo de jornada completa o genéricas, y GetOnBoard sin verificar; no se incorporó nada. Laborum, Freelancer, Indeed, Upwork y Malt no se alcanzaron por tiempo."
+    }
+  ]
 }
