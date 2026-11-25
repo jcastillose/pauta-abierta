@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-24 16:59",
+  "updated": "2026-11-25 03:08",
   "profile": "Relacionadora pública y licenciada en Relaciones Públicas, con más de 15 años en comunicación estratégica, gestión de redes sociales, contenidos y Reels, pauta en Meta Ads con reportes de KPI, prensa, alianzas con marcas y producción de eventos en los sectores social, corporativo y educativo. Busca proyectos freelance, trabajos por encargo y jornadas parciales, de preferencia remotos. Reside en Santiago.",
   "jobs": [
+    {
+      "id": "cliente-en-workana-chile-busqueda-de-productor-de-marketing-influencers-en-santiago-remoto-o-presencial-en-santiago",
+      "title": "Búsqueda de Productor de Marketing Influencers en Santiago",
+      "company": "Cliente en Workana (Chile)",
+      "location": "Remoto o presencial en Santiago",
+      "modalidad": "remoto",
+      "sector": "redes-sociales",
+      "tipo": "proyecto",
+      "salary": "USD 100 - 250",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/busqueda-de-productor-de-marketing-influencers-en-santiago",
+      "published_date": "2026-11-24",
+      "deadline": null,
+      "note": "Plan de crecimiento orgánico en Instagram y TikTok para una pareja de creadores de contenido en Santiago: auditoría de perfiles, plan de cuatro semanas con formatos y pruebas, y decisiones editoriales. Duración inicial de cuatro semanas, remoto o presencial. Los creadores graban. 9 propuestas al verificar.",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "new"
+    },
+    {
+      "id": "cliente-en-workana-mexico-estratega-y-guionista-de-contenido-beauty-para-tiktok-mexico-remoto-mexico",
+      "title": "Estratega y Guionista de Contenido Beauty para Tiktok México",
+      "company": "Cliente en Workana (México)",
+      "location": "Remoto, México",
+      "modalidad": "remoto",
+      "sector": "marca-contenido",
+      "tipo": "recurrente",
+      "salary": "USD 250 - 500",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/estratega-y-guionista-de-contenido-beauty-para-tiktok-mexico",
+      "published_date": "2026-11-25",
+      "deadline": null,
+      "note": "Estrategia y entre 12 y 16 guiones mensuales de TikTok en el nicho de belleza, con tono conversacional. Encaja con storytelling y copy. Requisito por confirmar: experiencia específica en belleza y en TikTok. 15 propuestas al verificar.",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "new"
+    },
+    {
+      "id": "cliente-en-workana-estrategia-de-meta-ads-para-impulsar-inscripciones-a-carrera-en-parejas-remoto",
+      "title": "Estrategia de Meta Ads para Impulsar Inscripciones a Carrera en Parejas",
+      "company": "Cliente en Workana",
+      "location": "Remoto",
+      "modalidad": "remoto",
+      "sector": "pauta-digital",
+      "tipo": "proyecto",
+      "salary": "USD 50 - 100",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/estrategia-de-meta-ads-para-impulsar-inscripciones-a-carrera-en-parejas",
+      "published_date": "2026-11-25",
+      "deadline": null,
+      "note": "Diseño, implementación y monitoreo de una campaña de Meta Ads para captar inscripciones: creatividades, segmentación, pujas y optimización. Presupuesto bajo (USD 50 - 100). 7 propuestas al verificar.",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "new"
+    },
+    {
+      "id": "cliente-en-workana-especialista-en-meta-ads-para-impulsar-ventas-de-carpinteria-y-herrajes-remoto",
+      "title": "Especialista en Meta Ads para Impulsar Ventas de Carpintería y Herrajes",
+      "company": "Cliente en Workana",
+      "location": "Remoto",
+      "modalidad": "remoto",
+      "sector": "pauta-digital",
+      "tipo": "proyecto",
+      "salary": "USD 250 - 500",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/especialista-en-meta-ads-para-impulsar-ventas-de-carpinteria-y-herrajes",
+      "published_date": "2026-11-24",
+      "deadline": null,
+      "note": "Campañas en Facebook e Instagram para aumentar solicitudes de cotización de una carpintería, con clientes particulares y del rubro construcción. Requisito por confirmar: país del cliente y duración. 35 propuestas al verificar.",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "new"
+    },
     {
       "id": "cliente-en-workana-gestion-integral-de-redes-sociales-para-marca-de-cosmeticos-profesionales-beauty-remoto",
       "title": "Gestión Integral de Redes Sociales para Marca de Cosméticos Profesionales Beauty",
@@ -10,15 +82,15 @@
       "modalidad": "remoto",
       "sector": "redes-sociales",
       "tipo": "recurrente",
-      "salary": null,
+      "salary": "USD 100 - 250",
       "source": "Workana",
       "url": "https://www.workana.com/job/gestion-integral-de-redes-sociales-para-marca-de-cosmeticos-profesionales-beauty",
       "published_date": "2026-11-24",
       "deadline": null,
       "note": "Gestión de redes de una marca de cosméticos para profesionales de la belleza: contenido, calendario, comunidad, campañas en Instagram y Facebook y análisis de métricas. Encaja con redes, Meta Ads y KPI. Presupuesto no visible sin sesión; 16 propuestas al verificar. Requisito por confirmar: video y duración del encargo.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-creacion-y-estrategia-de-perfil-de-instagram-para-coach-deportivo-remoto",
@@ -28,15 +100,15 @@
       "modalidad": "remoto",
       "sector": "redes-sociales",
       "tipo": "proyecto",
-      "salary": null,
+      "salary": "Menos de USD 50",
       "source": "Workana",
       "url": "https://www.workana.com/job/creacion-y-estrategia-de-perfil-de-instagram-para-coach-deportivo",
       "published_date": "2026-11-23",
       "deadline": null,
       "note": "Estrategia de contenido, identidad visual y publicaciones iniciales para el perfil de un coach deportivo y sus talleres. Encaja con marca personal y Canva. Presupuesto no visible sin sesión; ya tiene 21 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-estrategia-y-gestion-de-redes-sociales-para-lanzamiento-de-novela-de-ciencia-ficcion-remoto",
@@ -46,15 +118,15 @@
       "modalidad": "remoto",
       "sector": "redes-sociales",
       "tipo": "recurrente",
-      "salary": null,
+      "salary": "Menos de USD 50",
       "source": "Workana",
       "url": "https://www.workana.com/job/estrategia-y-gestion-de-redes-sociales-para-lanzamiento-de-novela-de-ciencia-ficcion",
       "published_date": "2026-11-19",
       "deadline": null,
       "note": "Tres meses (dic 2026 a feb 2027) en Instagram, con planificación mensual, placas, carruseles y Reels a partir de material entregado. Exige leer la novela y redacción 100% artesanal, sin IA. Menciona Canva Pro/Photoshop y CapCut/Premiere: requisito por confirmar. Presupuesto no visible sin sesión; solo 2 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-asesoramiento-estrategico-para-redes-sociales-personales-remoto",
@@ -64,15 +136,15 @@
       "modalidad": "remoto",
       "sector": "redes-sociales",
       "tipo": "proyecto",
-      "salary": null,
+      "salary": "Menos de USD 50",
       "source": "Workana",
       "url": "https://www.workana.com/job/asesoramiento-estrategico-para-redes-sociales-personales",
       "published_date": "2026-11-23",
       "deadline": null,
       "note": "Asesoría puntual: revisión de perfiles, mejoras, tipos de contenido, biografía y estrategia de publicación. Pocas publicaciones por semana. Presupuesto no visible sin sesión; 17 propuestas y cliente nuevo en la plataforma (miembro desde noviembre 2026).",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "clinica-dental-en-providencia-chiletrabajos-clinica-dental-marketing-digital-diseno-y-community-manager-part-time-provid",
@@ -89,8 +161,8 @@
       "deadline": null,
       "note": "Dos días por semana (uno presencial, uno remoto): Meta Ads, redes, reels y piezas gráficas para captar pacientes. Advertencias: honorario bajo ($200.000 mensuales), 114 interesados, exige portafolio y además diseño y actualización del sitio web (requisito por confirmar).",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-creacion-de-contenido-para-redes-sociales-posts-para-creadores-de-contenido-remoto",
@@ -100,15 +172,15 @@
       "modalidad": "remoto",
       "sector": "redes-sociales",
       "tipo": "proyecto",
-      "salary": null,
+      "salary": "USD 100 - 250",
       "source": "Workana",
       "url": "https://www.workana.com/job/creacion-de-contenido-para-redes-sociales-107",
       "published_date": "2026-11-23",
       "deadline": null,
       "note": "Calendario de publicaciones y posts listos para publicar dirigidos a creadores de contenido; valora integrar herramientas de IA. Presupuesto no visible sin sesión; ya tiene 45 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-especialista-en-marketing-digital-y-branding-para-estudio-de-diseno-de-interiores-y-mobiliario-remoto",
@@ -118,15 +190,15 @@
       "modalidad": "remoto",
       "sector": "marca-contenido",
       "tipo": "proyecto",
-      "salary": null,
+      "salary": "USD 100 - 250",
       "source": "Workana",
       "url": "https://www.workana.com/job/especialista-en-marketing-digital-y-branding-para-estudio-de-diseno-de-interiores-y-mobiliario",
       "published_date": "2026-11-23",
       "deadline": null,
       "note": "Identidad de marca, propuesta de valor, contenido, gestión de redes y estrategia digital para un estudio nuevo. Alcance amplio, conviene acotarlo. Presupuesto no visible sin sesión; 26 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-diseno-de-plantillas-editables-en-canva-pro-para-redes-sociales-de-spa-remoto",
@@ -136,15 +208,15 @@
       "modalidad": "remoto",
       "sector": "marca-contenido",
       "tipo": "proyecto",
-      "salary": null,
+      "salary": "USD 50 - 100",
       "source": "Workana",
       "url": "https://www.workana.com/job/diseno-de-plantillas-editables-en-canva-pro-para-redes-sociales-de-spa",
       "published_date": "2026-11-24",
       "deadline": null,
       "note": "8 posts, 8 portadas de reels y 10 historias en Canva a partir de un brief con paleta y estilo. Pide tipografías compatibles con el idioma italiano: el cliente podría operar en italiano (requisito por confirmar). Presupuesto no visible sin sesión; 42 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-colombia-experto-en-meta-ads-para-plataforma-de-clases-de-idiomas-online-remoto-colombia",
@@ -154,15 +226,15 @@
       "modalidad": "remoto",
       "sector": "pauta-digital",
       "tipo": "recurrente",
-      "salary": null,
+      "salary": "USD 50 - 100",
       "source": "Workana",
       "url": "https://www.workana.com/job/experto-en-meta-ads-para-plataforma-de-clases-de-idiomas-online",
       "published_date": "2026-11-23",
       "deadline": null,
       "note": "Campañas de Meta Ads para captar registros en una plataforma de clases de inglés y francés, con reporte semanal de inversión y costo por registro; tarifa mensual fija (monto no visible) y un mes de prueba. Pide caso de éxito en generación de leads, idealmente educación (requisito por confirmar). 38 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-paraguay-estrategia-de-geofencing-y-marketing-de-proximidad-para-boutique-de-carnes-remoto-paraguay",
@@ -179,8 +251,8 @@
       "deadline": null,
       "note": "Publicidad geolocalizada en Instagram (Meta Ads) para captar clientes cerca de un local en Asunción. Incluye notificaciones automatizadas por SMS o WhatsApp, lo que quizás excede el perfil (requisito por confirmar). Presupuesto no visible sin sesión; 10 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "new"
+      "last_seen": "2026-11-25",
+      "status": "active"
     }
   ]
 }
