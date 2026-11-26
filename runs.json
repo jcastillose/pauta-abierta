@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-25 03:08",
+  "updated": "2026-11-26 03:08",
   "runs": [
+    {
+      "date": "2026-11-26",
+      "found": 19,
+      "new": 5,
+      "closed": 0,
+      "note": "Navegador: Claude in Chrome (una pestaña, cerrada al terminar). Re-verificadas 14 de 14 vigentes (13 de Workana por fetch desde la pestaña y la clínica en Chiletrabajos; todas abren y siguen abiertas). Workana FUNCIONÓ con ?language=es&query=<consulta> (community manager, redes sociales, relaciones publicas, meta ads, branding, marketing); el listado extraído con .project-item muestra presupuesto, antigüedad y propuestas, y las fichas se leen con fetch desde la pestaña. LinkedIn FUNCIONÓ esta vez con keywords+geoId=104621616+f_TPR=r604800 (cabecera 'Chile', 12 resultados mezclando aproximados); las tarjetas se abren con clic y el id sale de currentJobId. Fichas abiertas: 12 (5 incluidas). Descartes: editor de contenido con IA y video, asistente de redes, difusión orgánica pagada por resultados (USD 50 por 15 usuarios, catálogo en inglés), e-commerce de moda para mercados europeos, gestor cultural presencial en Madrid, agencia de paneles solares que subcontrata Meta Ads, editores de video y diseñadores gráficos, vendedor B2B por comisión, Social Media Content Creator de JUMP (empresa de Utah, inglés), prácticas, cargos de participación ciudadana y encargados de comunidades de jornada completa. Laborum, Computrabajo, Chiletrabajos (solo re-verificación), Freelancer, GetOnBoard, Upwork, Malt e Indeed no se revisaron por tiempo; la nube (WebSearch) no se usó."
+    },
     {
       "date": "2026-11-25",
       "found": 14,
