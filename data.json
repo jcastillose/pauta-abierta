@@ -1,7 +1,115 @@
 {
-  "updated": "2026-11-26 03:08",
+  "updated": "2026-11-27 03:09",
   "profile": "Relacionadora pública y licenciada en Relaciones Públicas, con más de 15 años en comunicación estratégica, gestión de redes sociales, contenidos y Reels, pauta en Meta Ads con reportes de KPI, prensa, alianzas con marcas y producción de eventos en los sectores social, corporativo y educativo. Busca proyectos freelance, trabajos por encargo y jornadas parciales, de preferencia remotos. Reside en Santiago.",
   "jobs": [
+    {
+      "id": "cliente-en-workana-creacion-de-contenido-para-redes-sociales-de-restaurante-de-mariscos-remoto",
+      "title": "Creación de Contenido para Redes Sociales de Restaurante de Mariscos",
+      "company": "Cliente en Workana",
+      "location": "Remoto",
+      "modalidad": "remoto",
+      "sector": "redes-sociales",
+      "tipo": "proyecto",
+      "salary": "USD 250 - 500",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/creacion-de-contenido-para-redes-sociales-de-restaurante-de-mariscos",
+      "published_date": "2026-11-27",
+      "deadline": null,
+      "note": "Conceptualización, diseño y redacción de posts para un restaurante de mariscos, con foco en platos y promociones. Plazo no definido; solo 3 propuestas al verificar. Requisito por confirmar: país del cliente y cantidad de piezas.",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "new"
+    },
+    {
+      "id": "cliente-en-workana-creacion-y-gestion-de-contenido-para-redes-sociales-de-emprendimiento-local-remoto",
+      "title": "Creación y Gestión de Contenido para Redes Sociales de Emprendimiento Local",
+      "company": "Cliente en Workana",
+      "location": "Remoto",
+      "modalidad": "remoto",
+      "sector": "redes-sociales",
+      "tipo": null,
+      "salary": "USD 50 - 100",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/creacion-y-gestion-de-contenido-para-redes-sociales-de-emprendimiento-local",
+      "published_date": "2026-11-26",
+      "deadline": null,
+      "note": "Estrategia de contenido, publicaciones visuales y textos para un emprendimiento local de marca mediana. Presupuesto bajo (USD 50 - 100); 4 propuestas al verificar. Requisito por confirmar: país del cliente, duración y si es puntual o mensual.",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "new"
+    },
+    {
+      "id": "cliente-en-workana-gestion-de-redes-sociales-para-promocion-de-taller-psicologico-remoto",
+      "title": "Gestión de Redes Sociales para Promoción de Taller Psicológico",
+      "company": "Cliente en Workana",
+      "location": "Remoto",
+      "modalidad": "remoto",
+      "sector": "redes-sociales",
+      "tipo": null,
+      "salary": "USD 250 - 500",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/gestion-de-redes-sociales-para-promocion-de-taller-psicologico",
+      "published_date": "2026-11-26",
+      "deadline": null,
+      "note": "Contenido, programación de publicaciones e interacción con la audiencia para atraer participantes a un taller psicológico; valora sensibilidad hacia bienestar y psicología. Ya recibe muchas propuestas (más de 45 al verificar). Requisito por confirmar: país del cliente y duración.",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "new"
+    },
+    {
+      "id": "cliente-en-workana-experto-en-meta-ads-para-gestion-y-optimizacion-de-campanas-digitales-en-espana-remoto",
+      "title": "Experto en Meta Ads para Gestión y Optimización de Campañas Digitales en España",
+      "company": "Cliente en Workana",
+      "location": "Remoto",
+      "modalidad": "remoto",
+      "sector": "pauta-digital",
+      "tipo": null,
+      "salary": "USD 500 - 1.000",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/experto-en-meta-ads-para-gestion-y-optimizacion-de-campanas-digitales-en-espana",
+      "published_date": "2026-11-26",
+      "deadline": null,
+      "note": "Configuración, seguimiento y optimización de 4 o 5 campañas de Meta Ads para el mercado español, con reportes de resultados. Admite tarifa mensual o presupuesto por campaña. Pide resultados previos en campañas en España (requisito por confirmar). Ya recibe muchas propuestas (más de 60 al verificar).",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "new"
+    },
+    {
+      "id": "cliente-en-workana-panama-buscamos-media-buyer-trafficker-digital-meta-ads-y-whatsapp-remoto-panama",
+      "title": "Buscamos Media Buyer / Trafficker Digital – Meta Ads y WhatsApp",
+      "company": "Cliente en Workana (Panamá)",
+      "location": "Remoto, Panamá",
+      "modalidad": "remoto",
+      "sector": "pauta-digital",
+      "tipo": null,
+      "salary": "USD 250 - 500",
+      "source": "Workana",
+      "url": "https://www.workana.com/job/experto-media-buyer-trafficker-digital-para-gestion-de-meta-ads-y-whatsapp-en-e-commerce",
+      "published_date": "2026-11-26",
+      "deadline": null,
+      "note": "Gestión diaria de campañas de Meta Ads con ventas por WhatsApp para un ecommerce de dropshipping con pago contra entrega: testeo de productos, análisis de CPA y reportes diarios y semanales. Exige experiencia comprobable en ecommerce y ventas por WhatsApp (requisito por confirmar). Dedicación diaria que puede chocar con su empleo actual; 23 propuestas al verificar.",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "new"
+    },
+    {
+      "id": "joby-group-part-time-kol-influencer-marketing-specialist-remote-remoto-chile",
+      "title": "Part-Time KOL & Influencer Marketing Specialist (Remote)",
+      "company": "JOBY GROUP",
+      "location": "Remoto, Chile",
+      "modalidad": "remoto",
+      "sector": "prensa-rrpp",
+      "tipo": "part-time",
+      "salary": null,
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4493836860/",
+      "published_date": null,
+      "deadline": null,
+      "note": "Desarrollar la red de creadores de Ulanzi y Joby en Latinoamérica: contacto con influencers, negociación de canjes y colaboraciones pagadas, coordinación de entregables. Freelance de 10 a 20 horas semanales con pago mensual fijo más extras por colaboraciones o resultados; monto no publicado y piden indicar expectativa de renta. Pide 1 a 2 años en influencer marketing, RR.PP. o redes; inglés o chino es un plus. 12 postulantes al verificar.",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "new"
+    },
     {
       "id": "cliente-en-workana-estrategia-de-marketing-digital-para-terapeuta-holistica-atraccion-de-clientes-y-venta-de-talleres-re",
       "title": "Estrategia de Marketing Digital para Terapeuta Holística: Atracción de Clientes y Venta de Talleres",
@@ -17,8 +125,8 @@
       "deadline": null,
       "note": "Estrategia y gestión de comunidad en Instagram para una terapeuta, con embudos de venta y lanzamiento de talleres grabados y presenciales. Encaja con redes y contenidos. Presupuesto bajo (USD 50 - 100); 13 propuestas al verificar. Requisito por confirmar: duración y país del cliente.",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
-      "status": "new"
+      "last_seen": "2026-11-27",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-estrategia-y-creacion-de-contenido-para-lanzamiento-de-marca-de-skincare-en-redes-sociales-remoto",
@@ -35,8 +143,8 @@
       "deadline": null,
       "note": "Estrategia inicial, calendario mensual, 2 publicaciones semanales y piezas gráficas para una marca de skincare que lanza en Estados Unidos en marzo de 2027. Un mes de prueba con posible continuidad. 19 propuestas al verificar. Requisito por confirmar: idioma del contenido (mercado estadounidense, posiblemente en inglés).",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
-      "status": "new"
+      "last_seen": "2026-11-27",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-desarrollo-de-plan-de-marketing-estrategico-b2b-para-pyme-de-it-remoto",
@@ -53,8 +161,8 @@
       "deadline": null,
       "note": "Plan de marketing integral para una pyme tecnológica: propuesta de valor, canales, tácticas y métricas. Proyecto grande y mejor pagado, pero exige experiencia comprobable en marketing B2B (requisito por confirmar). 33 propuestas al verificar.",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
-      "status": "new"
+      "last_seen": "2026-11-27",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-diseno-de-branding-y-plantillas-profesionales-para-instagram-de-marca-personal-remoto",
@@ -71,8 +179,8 @@
       "deadline": null,
       "note": "Identidad visual, manual de marca y plantillas editables para posts, stories y reels de una marca personal. Pide diseñador gráfico o especialista en branding: requisito por confirmar si basta con Canva. 47 propuestas al verificar.",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
-      "status": "new"
+      "last_seen": "2026-11-27",
+      "status": "active"
     },
     {
       "id": "kova-corp-especialista-en-marketing-digital-freelance-por-proyecto-remoto-chile",
@@ -89,8 +197,8 @@
       "deadline": null,
       "note": "Equipo de respaldo para licitaciones públicas: planes de difusión, campañas en Meta y Google, redes, contenidos e informes mensuales. Pago por hito acordado por escrito, con boleta, sin horario fijo; monto no publicado. Requisitos por confirmar: Google Ads, GA4, Tag Manager y SEO básico en WordPress. 48 personas hicieron clic en postular.",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
-      "status": "new"
+      "last_seen": "2026-11-27",
+      "status": "active"
     },
     {
       "id": "cliente-en-workana-chile-busqueda-de-productor-de-marketing-influencers-en-santiago-remoto-o-presencial-en-santiago",
@@ -108,7 +216,8 @@
       "note": "Plan de crecimiento orgánico en Instagram y TikTok para una pareja de creadores de contenido en Santiago: auditoría de perfiles, plan de cuatro semanas con formatos y pruebas, y decisiones editoriales. Duración inicial de cuatro semanas, remoto o presencial. Los creadores graban. 9 propuestas al verificar.",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-26",
-      "status": "active"
+      "status": "closed",
+      "closed_date": "2026-11-27"
     },
     {
       "id": "cliente-en-workana-mexico-estratega-y-guionista-de-contenido-beauty-para-tiktok-mexico-remoto-mexico",
@@ -125,7 +234,7 @@
       "deadline": null,
       "note": "Estrategia y entre 12 y 16 guiones mensuales de TikTok en el nicho de belleza, con tono conversacional. Encaja con storytelling y copy. Requisito por confirmar: experiencia específica en belleza y en TikTok. 15 propuestas al verificar.",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -143,7 +252,7 @@
       "deadline": null,
       "note": "Diseño, implementación y monitoreo de una campaña de Meta Ads para captar inscripciones: creatividades, segmentación, pujas y optimización. Presupuesto bajo (USD 50 - 100). 7 propuestas al verificar.",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -161,7 +270,7 @@
       "deadline": null,
       "note": "Campañas en Facebook e Instagram para aumentar solicitudes de cotización de una carpintería, con clientes particulares y del rubro construcción. Requisito por confirmar: país del cliente y duración. 35 propuestas al verificar.",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -179,7 +288,7 @@
       "deadline": null,
       "note": "Gestión de redes de una marca de cosméticos para profesionales de la belleza: contenido, calendario, comunidad, campañas en Instagram y Facebook y análisis de métricas. Encaja con redes, Meta Ads y KPI. Presupuesto no visible sin sesión; 16 propuestas al verificar. Requisito por confirmar: video y duración del encargo.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -197,7 +306,7 @@
       "deadline": null,
       "note": "Estrategia de contenido, identidad visual y publicaciones iniciales para el perfil de un coach deportivo y sus talleres. Encaja con marca personal y Canva. Presupuesto no visible sin sesión; ya tiene 21 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -215,7 +324,7 @@
       "deadline": null,
       "note": "Tres meses (dic 2026 a feb 2027) en Instagram, con planificación mensual, placas, carruseles y Reels a partir de material entregado. Exige leer la novela y redacción 100% artesanal, sin IA. Menciona Canva Pro/Photoshop y CapCut/Premiere: requisito por confirmar. Presupuesto no visible sin sesión; solo 2 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -233,7 +342,7 @@
       "deadline": null,
       "note": "Asesoría puntual: revisión de perfiles, mejoras, tipos de contenido, biografía y estrategia de publicación. Pocas publicaciones por semana. Presupuesto no visible sin sesión; 17 propuestas y cliente nuevo en la plataforma (miembro desde noviembre 2026).",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -251,7 +360,7 @@
       "deadline": null,
       "note": "Dos días por semana (uno presencial, uno remoto): Meta Ads, redes, reels y piezas gráficas para captar pacientes. Advertencias: honorario bajo ($200.000 mensuales), 114 interesados, exige portafolio y además diseño y actualización del sitio web (requisito por confirmar).",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -269,7 +378,7 @@
       "deadline": null,
       "note": "Calendario de publicaciones y posts listos para publicar dirigidos a creadores de contenido; valora integrar herramientas de IA. Presupuesto no visible sin sesión; ya tiene 45 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -287,7 +396,7 @@
       "deadline": null,
       "note": "Identidad de marca, propuesta de valor, contenido, gestión de redes y estrategia digital para un estudio nuevo. Alcance amplio, conviene acotarlo. Presupuesto no visible sin sesión; 26 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -305,7 +414,7 @@
       "deadline": null,
       "note": "8 posts, 8 portadas de reels y 10 historias en Canva a partir de un brief con paleta y estilo. Pide tipografías compatibles con el idioma italiano: el cliente podría operar en italiano (requisito por confirmar). Presupuesto no visible sin sesión; 42 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -323,7 +432,7 @@
       "deadline": null,
       "note": "Campañas de Meta Ads para captar registros en una plataforma de clases de inglés y francés, con reporte semanal de inversión y costo por registro; tarifa mensual fija (monto no visible) y un mes de prueba. Pide caso de éxito en generación de leads, idealmente educación (requisito por confirmar). 38 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     },
     {
@@ -341,7 +450,7 @@
       "deadline": null,
       "note": "Publicidad geolocalizada en Instagram (Meta Ads) para captar clientes cerca de un local en Asunción. Incluye notificaciones automatizadas por SMS o WhatsApp, lo que quizás excede el perfil (requisito por confirmar). Presupuesto no visible sin sesión; 10 propuestas.",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "active"
     }
   ]
