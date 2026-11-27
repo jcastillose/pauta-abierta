@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-26 03:08",
+  "updated": "2026-11-27 03:09",
   "runs": [
+    {
+      "date": "2026-11-27",
+      "found": 24,
+      "new": 6,
+      "closed": 1,
+      "note": "Navegador: Claude in Chrome (una pestaña, cerrada al terminar). Re-verificadas 19 de 19 vigentes: 16 de Workana abren por fetch desde la pestaña, la clínica en Chiletrabajos abre (expira 2027-02-01) y KOVA sigue en el listado de LinkedIn; 1 de Workana (productor de marketing de influencers en Santiago) devuelve 404 y se cierra. Workana FUNCIONÓ con ?language=es&query=<consulta> (community manager, redes sociales, relaciones publicas, meta ads, branding); el listado se extrae con .project-item tras esperar unos 2,5 s (muestra presupuesto, antigüedad y propuestas) y las fichas se leen con fetch desde la pestaña. Las consultas comunicados de prensa, contenido y marketing digital no se ejecutaron. LinkedIn FUNCIONÓ con keywords=community manager freelance + geoId=104621616 + f_TPR=r604800 (cabecera 'Chile', 17 resultados aproximados); las tarjetas se abren con clic y el id sale de currentJobId. Chiletrabajos: la ficha abre por URL directa; javascript_tool bloquea fetch con ids en esa página. Fichas abiertas: 12 (6 incluidas). Descartes: estratega 360 para colegio en Panamá (piezas en inglés), reedición del aviso de la pareja de creadores de Santiago (video existente como categoría central), producción de fotos y videos para redes, PICTOR community manager (full-time), Europa Secreta community manager (full-time presencial, edición de video avanzada excluyente), editores de video, diseñadores de logo e imagen corporativa, kommo CRM, YouTube clips virales, social media assistant con 109 propuestas, gestor cultural, representante en CDMX, periodista en CDMX, SEO outreach, prácticas y cargos territoriales o de comunidades de jornada completa. Nube: 6 consultas WebSearch (community manager freelance Chile, gestión de redes por proyecto, relacionadora pública part-time, meta ads freelance, comunicaciones ONG, community manager part time Santiago); devolvieron sobre todo fichas de Workana ya conocidas o sin fecha, Chiletrabajos de jornada completa, GetOnBoard (Mediahuella paid media, sin verificar) y resultados sin fecha; no se incorporó nada. Laborum, Computrabajo, Freelancer, GetOnBoard, Upwork, Malt e Indeed no se revisaron por tiempo."
+    },
     {
       "date": "2026-11-26",
       "found": 19,
