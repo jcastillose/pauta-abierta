@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-27 03:09",
+  "updated": "2026-11-28 03:09",
   "runs": [
+    {
+      "date": "2026-11-28",
+      "found": 26,
+      "new": 3,
+      "closed": 1,
+      "note": "Navegador: Claude in Chrome (una pestaña, cerrada al terminar). Re-verificadas 23 de 24 vigentes: 21 de Workana por fetch (la de media buyer en Panamá devuelve 404 y se cierra), KOVA y JOBY siguen en el listado de LinkedIn y la clínica de Chiletrabajos no se reabrió y queda sin tocar (plazo 2027-02-01). Workana FUNCIONÓ con ?language=es&query=<consulta> (community manager, redes sociales, meta ads; el listado trae presupuesto, antigüedad y propuestas con .project-item tras esperar 2,5 s); con X-Requested-With devuelve JSON, pero tras unas 40 consultas seguidas empezó a fallar, así que conviene espaciarlas. LinkedIn FUNCIONÓ con keywords=community manager freelance + geoId=104621616 + f_TPR=r604800 (cabecera Chile, 15 resultados aproximados, ninguno nuevo adecuado: Wolf GyT, Dabke y AgendaPro parecen jornada completa y no se abrieron). Fichas abiertas: 5 (3 incluidas). Descartes: reedición del aviso de la pareja de creadores de Santiago (edición de video existente), recuperación de perfiles de restaurante, editores de video, diseñadores, atención al cliente, asistentes virtuales, plataforma de video con IA y propuestas con más de 150 propuestas. Nube (WebSearch), Laborum, Computrabajo, Chiletrabajos, Freelancer, GetOnBoard, Indeed, Upwork y Malt no se revisaron por tiempo."
+    },
     {
       "date": "2026-11-27",
       "found": 24,
